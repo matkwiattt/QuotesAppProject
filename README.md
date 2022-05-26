@@ -1,16 +1,17 @@
-# thenetninjaapp2
+# QuotesApp
+QuotesApp is my first App which i build in Flutter. I wanted to get how does the whole framework works. I also use it as template.
 
-A new Flutter project.
+## Used technologies
+Dart
 
-## Getting Started
+## Features
+Structure of mobile app, great to use as a template
 
-This project is a starting point for a Flutter application.
+## Setup
+It works on every emulator.
 
-A few resources to get you started if this is your first Flutter project:
+## Project Status
+In progress.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contact 
+Contact me! Don't hesitate:)
